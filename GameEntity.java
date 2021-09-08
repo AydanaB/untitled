@@ -1,6 +1,6 @@
 package com.company;
 
-public class GameEntity extends Weapon{
+public class GameEntity{
     private int health, damage;
     private String superPower;
 
